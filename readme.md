@@ -6,7 +6,7 @@ To run the model, install required packages with
 pip install -r requirements.txt 
 
 Then run inference.py and specify arguments as needed
-For example, in IDLE, run module customized pass in `--name ./assets/sample3` with no extension. It will generate sample3.png in the path
+For example, in IDLE, run module customized pass in `--name ./assets/sample3 --textstring "The rain / in spain - falls mainly"` with no extension. It will generate sample3.png in the path
 
 
 To retrain model, run train.py, and specify arguments to change hyperparameters
